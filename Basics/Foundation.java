@@ -10,3 +10,4 @@ public class ProgramNameHere
 
 // add classes
 // add arrays and arraylists
+// add try-catch
