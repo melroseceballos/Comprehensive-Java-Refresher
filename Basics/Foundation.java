@@ -12,4 +12,3 @@ public class ProgramNameHere
 // add arrays and arraylists
 // add try-catch
 // add exceptions 
-//placeholder 
