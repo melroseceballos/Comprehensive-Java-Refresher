@@ -13,6 +13,3 @@ public class ProgramNameHere
 // add try-catch
 // add exceptions 
 // write about drivers
-
-//weekend
-//Sunday 
