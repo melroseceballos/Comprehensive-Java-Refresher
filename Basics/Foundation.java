@@ -16,4 +16,4 @@ public class ProgramNameHere
 // refresh on objects
 // and submethods 
 
-// day off
+// day off Thursday 
